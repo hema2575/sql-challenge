@@ -159,6 +159,7 @@ ORDER BY count(last_name) desc;
 
 ## Histogram and Barchart
 
-![alt tag](https://github.com/hema2575/sql-challenge/  .png)
+![alt tag](https://github.com/hema2575/sql-challenge/blob/main/Barchart%20of%20Average%20Salary%20by%20Title.png)
+![alt tag](https://github.com/hema2575/sql-challenge/blob/main/Common%20Salary%20Ranges.png)
 
 
